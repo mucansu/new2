@@ -10,7 +10,7 @@ public class Main {
     public static Scanner sc2 = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.print("");
+        
         do {
             displayMenu();
 
